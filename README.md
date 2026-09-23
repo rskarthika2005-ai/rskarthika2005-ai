@@ -36,55 +36,44 @@ Building my journey from <b>Engineering → Software → Artificial Intelligence
 
 <div align="center">
 
-## ✦ **PROFILE**
+## ✦ **ABOUT ME**
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+I am a **2026 B.E. Electronics and Communication Engineering graduate** with hands-on project experience in **Python, AI applications, RAG workflows, and AI agents**.
 
-### 👩‍💻 About Me
+My interests are focused on **software engineering, artificial intelligence, Generative AI, and practical AI applications**.
 
-I am a **2026 B.E. Electronics and Communication Engineering graduate** with a growing focus on **software engineering and artificial intelligence**.
+I have worked with **Python, Java, SQL, Machine Learning, LLMs, RAG, LangChain, LangGraph, PyTorch, and Scikit-learn** through academic and personal projects.
 
-My engineering background has helped me develop a strong problem-solving mindset, while my projects have given me practical exposure to **Python, Java, SQL, Machine Learning, Generative AI, LLMs, RAG and AI Agents**.
-
-I enjoy learning by building projects and exploring technologies that help me create useful software.
-
-</td>
-
-<td width="50%">
-
-### ⚡ Quick Profile
-
-🎓 **Education**
-B.E. Electronics & Communication Engineering
-
-📅 **Graduation**
-2026
-
-📍 **Location**
-Chennai, India
-
-💻 **Focus**
-Software Engineering
-
-🤖 **Interest**
-Artificial Intelligence
-
-🧩 **Strengths**
-Problem Solving · OOP · DSA
-
-</td>
-</tr>
-</table>
+I enjoy learning new technologies by building projects, solving programming problems, debugging issues, and improving my understanding through practical implementation.
 
 ---
 
 <div align="center">
 
-## ✦ **TECHNICAL EXPERTISE**
+## ✦ **QUICK PROFILE**
+
+</div>
+
+|                        |                                                   |
+| ---------------------- | ------------------------------------------------- |
+| 🎓 **Education**       | B.E. Electronics & Communication Engineering      |
+| 📅 **Graduation**      | 2026                                              |
+| 📍 **Location**        | Chennai, India                                    |
+| 💻 **Programming**     | Python · Java · SQL                               |
+| 🤖 **AI Focus**        | Machine Learning · Generative AI · LLMs           |
+| 🔎 **AI Applications** | RAG · AI Agents · Agentic AI                      |
+| 🧰 **Frameworks**      | LangChain · LangGraph · PyTorch · Scikit-learn    |
+| 🗄️ **Database**       | MySQL                                             |
+| ⚙️ **Core Skills**     | OOP · DSA · Debugging · Testing · Problem-Solving |
+| 🔧 **Tools**           | Git · GitHub                                      |
+
+---
+
+<div align="center">
+
+## ✦ **TECHNICAL SKILLS**
 
 </div>
 
@@ -98,17 +87,21 @@ Problem Solving · OOP · DSA
 
 ### 🤖 AI & Machine Learning
 
-`Machine Learning`   `Generative AI`   `LLMs`
-`RAG`   `AI Agents`   `Agentic AI`
+`Machine Learning` · `Generative AI` · `LLMs`
+`RAG` · `AI Agents` · `Agentic AI`
 
 ### 🧰 Frameworks & Libraries
 
-`LangChain` · `LangGraph` · `PyTorch` · `Scikit-learn` · `Flask`
+`LangChain` · `LangGraph` · `PyTorch` · `Scikit-learn`
+
+### 🗄️ Database
+
+`MySQL`
 
 ### ⚙️ Software Engineering
 
-`OOP` · `Data Structures & Algorithms` · `REST APIs`
-`Database Integration` · `Debugging` · `Testing`
+`OOP` · `Data Structures & Algorithms`
+`REST APIs` · `Debugging` · `Testing` · `Problem-Solving`
 
 ### 🔧 Tools
 
@@ -120,77 +113,140 @@ Problem Solving · OOP · DSA
 
 <div align="center">
 
-## ✦ **FEATURED PROJECTS**
-
-*Selected work from my journey into Software & AI*
+## ✦ **WHAT I BRING**
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+### 🧠 Problem-Solving
+
+I enjoy breaking problems into smaller parts, understanding the requirements, and working toward practical solutions.
+
+### 💻 Programming Foundation
+
+I am building a strong foundation in **Python, Java, SQL, OOP, and Data Structures & Algorithms**.
+
+### 🤖 AI & Generative AI
+
+I am exploring **LLMs, RAG, AI agents, and Generative AI applications** through hands-on projects.
+
+### 🔍 Debugging & Testing
+
+I focus on understanding errors, debugging issues, testing implementations, and improving solutions.
+
+### 📚 Continuous Learning
+
+I regularly learn through courses, projects, documentation, and practical experimentation.
+
+---
+
+<div align="center">
+
+## ✦ **FEATURED PROJECTS**
+
+*Selected projects from my Software & AI journey*
+
+</div>
+
+### 📚 Personalized AI Study Notes Generator
+
+An AI-powered study assistant designed to transform **lengthy study materials into personalized and concise notes**.
+
+The application focuses on identifying important information and presenting it in a simpler format to support **faster learning and revision**.
+
+**Key Areas**
+
+* AI-powered study assistance
+* Concise note generation
+* Key concept identification
+* Personalized learning support
+* Faster revision
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Personalized-AI-Study-Notes-Generator)**
+
+---
+
+### 📈 AI Student Growth Tracker
+
+An AI-based application designed to help students understand **their strengths, areas where they are lacking, and areas they can improve**.
+
+The project focuses on providing useful insights that can help students understand their progress and identify improvement areas.
+
+**Key Areas**
+
+* Student performance insights
+* AI-based analysis
+* Areas for improvement
+* Personalized guidance
+* Student growth tracking
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/AI-Student-Growth-Tracker)**
+
+---
 
 ### 🤖 Agentic AI Research Assistant
 
 **Python · LLMs · RAG · LangChain · LangGraph**
 
-An AI-powered research assistant that retrieves and analyzes document content and provides context-aware responses to user queries.
+An AI-powered research application that retrieves and analyzes document content and provides **context-aware responses** to user queries.
 
-**Focus**
+The project explores how LLMs, document retrieval, RAG, and agentic workflows can be combined to support research-oriented tasks.
 
-• Document retrieval
-• RAG
-• LLM applications
-• Agentic workflows
+**Key Areas**
 
-<br>
+* Document retrieval
+* RAG workflows
+* LLM applications
+* Context-aware responses
+* Agentic workflows
 
 🔗 **[View Repository](https://github.com/rskarthika2005-ai/Agentic-AI-Research-Assistant)**
 
-</td>
+---
 
-<td width="50%">
-
-### 💬 AI Chatbot
-
-**Python · LangChain · LLMs · REST APIs**
-
-A conversational AI application with conversational memory and external API integration for natural-language interactions.
-
-**Focus**
-
-• LLM integration
-• Conversational memory
-• API integration
-• Natural-language interaction
-
-<br>
-
-🔗 **[View Repository](https://github.com/rskarthika2005-ai/AI-Chatbot-using-LangChain-Python)**
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-### 🚦 Decentralized Traffic Prediction Using Federated Learning
+### 🚦 Decentralized Traffic Prediction Using Federated Learning & GRU
 
 **Python · YOLOv8 · GRU · Federated Learning**
 
-A machine-learning project combining vehicle detection with decentralized traffic prediction using GRU models and Federated Averaging.
+A machine-learning project combining **vehicle detection and traffic prediction** using GRU models and Federated Averaging.
 
-**Focus**
+The project explores decentralized learning where prediction models can learn from local data while participating in a federated learning process.
 
-`Vehicle Detection` · `GRU` · `Federated Learning` · `Decentralized Prediction`
+**Key Areas**
 
-<br>
+* Vehicle detection
+* YOLOv8
+* GRU-based prediction
+* Federated Learning
+* Federated Averaging
+* Traffic prediction
 
 🔗 **[View Repository](https://github.com/rskarthika2005-ai/Decentralized-Traffic-Prediction-using-Federated-Learning-and-GRU-Model)**
 
-</td>
-</tr>
-</table>
+---
+
+<div align="center">
+
+## ✦ **PROJECT APPROACH**
+
+</div>
+
+```text
+Understand the Problem
+        ↓
+Break the Problem into Smaller Tasks
+        ↓
+Choose the Right Technology
+        ↓
+Build the Solution
+        ↓
+Test & Debug
+        ↓
+Improve the Solution
+        ↓
+Learn from the Result
+```
+
+This approach helps me connect **software fundamentals with practical AI development**.
 
 ---
 
@@ -202,22 +258,39 @@ A machine-learning project combining vehicle detection with decentralized traffi
 
 <br>
 
-**ECE**
-↓
-**Programming Fundamentals**
-↓
-**Python • Java • SQL**
-↓
-**OOP • DSA • Software Fundamentals**
-↓
-**Machine Learning**
-↓
-**Generative AI • LLMs**
-↓
-**RAG • AI Agents**
+**Electronics & Communication Engineering**
+
 ↓
 
-### **Building Practical Applications**
+**Programming Fundamentals**
+
+↓
+
+**Python • Java • SQL**
+
+↓
+
+**OOP • DSA • Software Fundamentals**
+
+↓
+
+**Machine Learning**
+
+↓
+
+**Generative AI • LLMs**
+
+↓
+
+**RAG • AI Agents**
+
+↓
+
+**Practical AI Applications**
+
+↓
+
+### **Building Software & AI Solutions**
 
 </div>
 
@@ -233,7 +306,8 @@ A machine-learning project combining vehicle detection with decentralized traffi
 
 `2022 — 2026`
 
-**GPA: 7.8 / 10**
+**GPA: 7.91 / 10**
+
 **First Class with Distinction**
 
 </div>
@@ -246,57 +320,55 @@ A machine-learning project combining vehicle detection with decentralized traffi
 
 </div>
 
-<table>
-<tr>
-<td width="33%">
-
 ### 🟦 Oracle
 
 **Agentic AI Foundations Associate**
 
-`2026`
+`08/2026`
 
-Agentic AI
-AI Agents
-LLMs
-RAG
-Generative AI
+Training covering:
 
-</td>
+* Agentic AI
+* AI Agents
+* LLMs
+* RAG
+* Generative AI
+* Agentic Workflows
 
-<td width="34%">
+---
 
 ### 🟪 Udemy
 
 **LangChain: Agentic AI Engineering with LangChain & LangGraph**
 
-`2026`
+`04/2026 — 08/2026`
 
-LangChain
-LangGraph
-RAG
-AI Agents
-Tool Calling
-MCP
+Training covering:
 
-</td>
+* LangChain
+* LangGraph
+* LLM Applications
+* RAG
+* AI Agents
+* Tool Calling
+* MCP
+* Agentic Workflows
 
-<td width="33%">
+---
 
 ### 🟩 Udemy
 
 **Complete Python Course**
 
-`2024 — 2025`
+`07/2024 — 08/2025`
 
-Python
-OOP
-DSA
-Programming Fundamentals
+Training covering:
 
-</td>
-</tr>
-</table>
+* Python Programming
+* OOP
+* Data Structures
+* Programming Fundamentals
+* Application Development
 
 ---
 
@@ -342,8 +414,9 @@ My current priorities include:
 | 🧠 **DSA**         | Improve problem-solving                  |
 | 🏗️ **Software**   | Build practical applications             |
 | 🤖 **AI**          | Develop LLM & Generative AI applications |
-| 🔎 **RAG**         | Build better retrieval-based systems     |
-| 🧩 **Agents**      | Explore practical AI-agent workflows     |
+| 🔎 **RAG**         | Build retrieval-based applications       |
+| 🧩 **AI Agents**   | Explore practical agent workflows        |
+| 📚 **Learning**    | Continue improving through projects      |
 
 ---
 
@@ -357,7 +430,7 @@ My current priorities include:
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rskarthika2005-ai&hide_border=true&theme=transparent"/>
+<img src="https://streak-stats.demolab.com/?user=rskarthika2005-ai&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -371,19 +444,19 @@ My current priorities include:
 
 ### **Understand the Problem**
 
-### ↓
+↓
 
 ### **Build the Solution**
 
-### ↓
+↓
 
 ### **Test & Debug**
 
-### ↓
+↓
 
 ### **Learn**
 
-### ↓
+↓
 
 ### **Improve**
 
@@ -417,3 +490,11 @@ My current priorities include:
 
 <a href="mailto:rskarthika08@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+**© 2026 Karthika Senthilkumar**
+
+</div>
+
