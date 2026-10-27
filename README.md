@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KARTHIKA%20SENTHILKUMAR&fontSize=42&fontAlignY=38&desc=SOFTWARE%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20ENGINEERING&descAlignY=60&animation=fadeIn&fontColor=ffffff&color=0:0078D4,50:2563EB,100:7C3AED" width="100%"/>
 
@@ -40,11 +41,11 @@
 
 I am a **2026 B.E. Electronics and Communication Engineering graduate** interested in **software engineering, artificial intelligence, and Generative AI**.
 
-I have hands-on project experience exploring Python-based applications, LLM-powered analytics, document processing, RAG workflows, and AI agents.
+I have hands-on project experience developing Python applications, machine learning solutions, LLM-powered analytics, document processing, RAG workflows, and AI agents.
 
-I enjoy understanding real-world problems, developing practical solutions, debugging code, and learning new technologies through project-based implementation.
+I enjoy solving real-world problems, building practical applications, debugging code, and learning new technologies through project-based implementation.
 
-My goal is to grow as a software and AI engineer while contributing to useful, reliable, and user-focused applications.
+My goal is to grow as a **Software and AI Engineer**, contributing to reliable, useful, and user-focused applications.
 
 ---
 
@@ -59,7 +60,7 @@ My goal is to grow as a software and AI engineer while contributing to useful, r
 | 🎓 Education | B.E. Electronics & Communication Engineering |
 | 📅 Graduation | 2026 |
 | 📍 Location | Chennai, India |
-| 💻 Programming | Python · Java · SQL |
+| 💻 Programming | Python · SQL |
 | 🤖 AI & ML | Machine Learning · Computer Vision · OCR |
 | 🧠 Generative AI | LLMs · RAG · AI Agents |
 | 🧰 Frameworks | LangChain · LangGraph · PyTorch · Scikit-learn |
@@ -74,9 +75,7 @@ My goal is to grow as a software and AI engineer while contributing to useful, r
 
 ## ✦ FEATURED PROJECTS
 
-**My highlighted Software & AI projects**
-
-*Priority projects are listed first.*
+**Selected projects in Artificial Intelligence, Machine Learning, and Software Development**
 
 </div>
 
@@ -84,15 +83,15 @@ My goal is to grow as a software and AI engineer while contributing to useful, r
 
 **Tech Stack:** Python · OCR · Vision Models · Streamlit · FastAPI
 
-A receipt-processing application focused on extracting and validating information from pharma distribution expense receipts.
+An AI-assisted receipt-processing application designed to extract and validate expense information from pharmaceutical distribution receipts.
 
 **Key Features**
-- Extracts important receipt fields, including vendor, date, bill number, GSTIN, and amount.
-- Supports receipt validation and discrepancy detection.
-- Helps identify missing or inconsistent information for review.
-- Provides a Streamlit dashboard and a FastAPI endpoint.
+- Extracts vendor, date, bill number, GSTIN, and amount.
+- Validates receipt information and detects discrepancies.
+- Identifies missing or inconsistent fields for review.
+- Provides a Streamlit dashboard and FastAPI integration.
 
-**What it explores:** Document processing, OCR, AI-assisted data extraction, validation, and workflow automation.
+**Core Concepts:** Document AI · OCR · Data Extraction · Validation · Workflow Automation
 
 🔗 **[View Repository](https://github.com/rskarthika2005-ai/Tarang-Pharma-Distribution-expense-receipts)**
 
@@ -100,17 +99,18 @@ A receipt-processing application focused on extracting and validating informatio
 
 ### 🏠 2. Kestrel — Home Warranty Claim Review
 
-**Tech Stack:** Python · GPT-4o mini · Streamlit · LLM Applications
+**Tech Stack:** Python · Scikit-learn · Streamlit · FastAPI · Machine Learning
 
-An LLM-powered analytics application focused on examining home warranty support-ticket information and generating useful business insights.
+A machine-learning-based warranty fraud detection application designed to identify potentially fraudulent claims and prioritize cases for investigation.
 
 **Key Features**
-- Analyzes support-ticket information.
-- Explores patterns and trends in customer issues.
-- Identifies potential revenue opportunities.
-- Presents analytical insights through a Streamlit interface.
+- Cleans and preprocesses warranty claim records.
+- Identifies suspicious claim patterns using machine learning.
+- Generates fraud risk scores and review recommendations.
+- Provides prediction APIs and an interactive Streamlit dashboard.
+- Supports explainable, risk-based claim review.
 
-**What it explores:** LLM API integration, support-ticket analytics, business insights, and AI-powered applications.
+**Core Concepts:** Fraud Detection · Classification · Risk Scoring · Model Evaluation · API Development
 
 🔗 **[View Repository](https://github.com/rskarthika2005-ai/Kestrel-Home-Warranty-Claim-Review-Variant-C)**
 
@@ -118,34 +118,37 @@ An LLM-powered analytics application focused on examining home warranty support-
 
 ### 🎧 3. Vireo — Audio Support Tickets
 
-**Tech Stack:** Python · GPT-4o mini · Streamlit · AI Analytics
+**Tech Stack:** Python · LLMs · Google Gemini · Pandas · Streamlit
 
-An AI-based support-ticket analytics project designed to explore customer-support information and identify useful trends.
+An AI-powered customer-support analytics application designed to analyze support tickets and generate actionable business insights.
 
 **Key Features**
-- Analyzes customer-support ticket data using an LLM.
-- Explores recurring patterns in support issues.
-- Identifies potential business and revenue opportunities.
-- Presents insights through a Streamlit application.
+- Analyzes and categorizes customer-support tickets.
+- Identifies recurring complaints and customer sentiment.
+- Generates weekly support-ticket summaries.
+- Evaluates agent performance and operational metrics.
+- Highlights opportunities to reduce repeat customer contacts.
 
-**What it explores:** Python development, LLM integration, customer-support analytics, and insight generation.
+**Core Concepts:** LLM Integration · Text Classification · Data Analytics · Business Insights
 
-🔗 **[View Repository](https://github.com/rskarthika2005-ai/Vireo-Audio-Support-Tickets-Set-A)**
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Vireo-Audio-Support-Tickets-Set-A-)**
 
 ---
 
 ### 🤖 4. Agentic AI Research Assistant
 
-**Tech Stack:** Python · LLMs · RAG · LangChain · LangGraph
+**Tech Stack:** Python · LLMs · RAG · AI Agents
 
-An AI research assistant that explores document retrieval and context-aware question answering.
+A Python-based AI research assistant designed to retrieve and analyze information and provide context-aware answers.
 
 **Key Areas**
-- Document retrieval and analysis
-- Retrieval-Augmented Generation (RAG)
-- LLM-based question answering
-- Context-aware responses
-- Agentic AI workflows
+- Information retrieval and analysis.
+- Retrieval-Augmented Generation (RAG).
+- LLM-based question answering.
+- Context-aware response generation.
+- AI-assisted research workflows.
+
+**Core Concepts:** Generative AI · RAG · Research Automation · Contextual Question Answering
 
 🔗 **[View Repository](https://github.com/rskarthika2005-ai/Agentic-AI-Research-Assistant)**
 
@@ -153,30 +156,37 @@ An AI research assistant that explores document retrieval and context-aware ques
 
 ### 🚦 5. Decentralized Traffic Prediction Using Federated Learning & GRU
 
-**Tech Stack:** Python · YOLOv8 · GRU · Federated Learning
+**Tech Stack:** Python · Federated Learning · GRU · Deep Learning
 
-A machine-learning project exploring vehicle detection and traffic prediction using computer vision, GRU models, and federated learning techniques.
+An AI-based traffic prediction system that uses Federated Learning and a GRU model to analyze and predict traffic patterns across distributed environments.
 
 **Key Areas**
-- Vehicle detection using YOLOv8
-- GRU-based traffic prediction
-- Federated learning
-- Federated Averaging
-- Decentralized model training
+- Traffic data analysis and preprocessing.
+- GRU-based temporal prediction.
+- Federated learning across distributed environments.
+- Decentralized model training.
+- Traffic pattern forecasting.
 
-🔗 **[View Repository](https://github.com/rskarthika2005-ai/Decentralized-Traffic-Prediction-using-Federated-Learning-and-GRU-Model)**
+**Core Concepts:** Deep Learning · Time-Series Forecasting · Federated Learning · Distributed AI
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Decentralized-Traffic-Prediction-using-Federated-Learning-and-GRU-Model-)**
 
 ---
 
 ### 📚 6. Personalized AI Study Notes Generator
 
-An AI-powered study assistant designed to transform lengthy study materials into concise notes to support learning and revision.
+**Tech Stack:** Artificial Intelligence · Natural Language Processing
+
+An AI-based application designed to generate personalized study notes to support learning and make study materials easier to understand.
 
 **Key Areas**
-- AI-powered study assistance
-- Concise note generation
-- Key concept identification
-- Personalized learning support
+- AI-assisted study note generation.
+- Simplification of learning materials.
+- Personalized study support.
+- Organization of important concepts.
+- Improved learning and revision experience.
+
+**Core Concepts:** AI in Education · NLP · Content Generation · Personalized Learning
 
 🔗 **[View Repository](https://github.com/rskarthika2005-ai/Personalized-AI-Study-Notes-Generator)**
 
@@ -184,13 +194,18 @@ An AI-powered study assistant designed to transform lengthy study materials into
 
 ### 📈 7. AI Student Growth Tracker
 
-An AI-based application focused on helping students understand their strengths, identify areas for improvement, and review their progress.
+**Tech Stack:** Artificial Intelligence · Student Analytics
+
+An AI-based application designed to track student progress and growth.
 
 **Key Areas**
-- Student performance insights
-- Identification of improvement areas
-- Progress tracking
-- Personalized guidance
+- Student progress monitoring.
+- Academic performance tracking.
+- Learning growth analysis.
+- Identification of improvement areas.
+- AI-assisted educational insights.
+
+**Core Concepts:** Educational Analytics · Progress Tracking · AI Applications
 
 🔗 **[View Repository](https://github.com/rskarthika2005-ai/AI-Student-Growth-Tracker)**
 
@@ -205,32 +220,35 @@ An AI-based application focused on helping students understand their strengths, 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Python, Java and MySQL"/>
+<img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
 </p>
 
-`Python` · `Java` · `SQL`
+`Python` · `SQL`
 
-### 🤖 AI & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
-`Machine Learning` · `Computer Vision` · `OCR`  
-`Generative AI` · `Large Language Models` · `RAG`  
-`AI Agents` · `Agentic AI`
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `OCR`
+
+`Generative AI` · `Large Language Models` · `RAG`
+
+`AI Agents` · `Agentic AI` · `Federated Learning`
 
 ### 🧰 Frameworks & Libraries
 
-`LangChain` · `LangGraph` · `PyTorch` · `Scikit-learn`
+`LangChain` · `LangGraph` · `PyTorch` · `Scikit-learn` · `Pandas`
 
 ### 🌐 Application Development
 
 `Streamlit` · `FastAPI` · `REST APIs`
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Developer Tools
 
 `MySQL` · `Git` · `GitHub`
 
 ### ⚙️ Software Engineering Foundations
 
-`Object-Oriented Programming` · `Data Structures & Algorithms`  
+`Object-Oriented Programming` · `Data Structures & Algorithms`
+
 `Debugging` · `Testing` · `Problem-Solving`
 
 ---
@@ -243,23 +261,23 @@ An AI-based application focused on helping students understand their strengths, 
 
 ### 🧠 Problem-Solving
 
-I break problems into smaller tasks, understand requirements, and work toward practical solutions.
+I approach technical challenges by understanding requirements, breaking problems into smaller tasks, and developing practical solutions.
 
 ### 💻 Programming Foundation
 
-I continue to strengthen my programming fundamentals through Python, Java, SQL, OOP, and DSA practice.
+I strengthen my software development skills through Python, SQL, OOP, DSA, and hands-on application development.
 
 ### 🤖 AI Application Development
 
-I explore ways to apply LLMs, OCR, RAG, and machine learning to document processing, analytics, and research-oriented tasks.
+I explore practical applications of machine learning, LLMs, RAG, AI agents, and document processing.
 
 ### 🔍 Debugging & Testing
 
-I focus on understanding errors, checking outputs, and improving implementations through testing and debugging.
+I focus on understanding errors, validating outputs, and improving application reliability.
 
 ### 📚 Continuous Learning
 
-I learn through technical courses, documentation, hands-on projects, and practical experimentation.
+I learn through documentation, technical courses, real-world projects, and experimentation.
 
 ---
 
@@ -274,9 +292,11 @@ Understand the Problem
          ↓
 Identify Requirements
          ↓
-Break into Smaller Tasks
+Analyze Data and Constraints
          ↓
 Choose Suitable Technologies
+         ↓
+Design the Solution
          ↓
 Build the Application
          ↓
@@ -287,7 +307,7 @@ Evaluate the Results
 Improve the Solution
 ```
 
-My approach combines **programming fundamentals, practical implementation, and continuous learning** to develop useful software and AI applications.
+My approach combines **programming fundamentals, practical implementation, and continuous learning** to build useful software and AI applications.
 
 ---
 
@@ -307,7 +327,7 @@ My approach combines **programming fundamentals, practical implementation, and c
 
 ↓
 
-**Python • Java • SQL**
+**Python • SQL**
 
 ↓
 
@@ -315,7 +335,7 @@ My approach combines **programming fundamentals, practical implementation, and c
 
 ↓
 
-**Machine Learning • Computer Vision**
+**Machine Learning • Deep Learning**
 
 ↓
 
@@ -388,7 +408,6 @@ My approach combines **programming fundamentals, practical implementation, and c
 <table>
 <tr>
 <td align="center">🐍<br/><b>Python</b></td>
-<td align="center">☕<br/><b>Java</b></td>
 <td align="center">🧠<br/><b>DSA</b></td>
 <td align="center">🗄️<br/><b>SQL</b></td>
 <td align="center">🤖<br/><b>GenAI</b></td>
@@ -399,7 +418,7 @@ My approach combines **programming fundamentals, practical implementation, and c
 
 <br>
 
-I am continuously improving my skills in software development, LLM applications, RAG workflows, AI agents, API integration, and reliable application design.
+I am continuously improving my skills in software engineering, machine learning, LLM applications, RAG workflows, AI agents, API integration, and reliable application development.
 
 </div>
 
@@ -428,3 +447,4 @@ I am continuously improving my skills in software development, LLM applications,
 *Building my foundation in Software Engineering and Artificial Intelligence, one project at a time.*
 
 </div>
+
