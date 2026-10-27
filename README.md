@@ -112,7 +112,7 @@ A machine-learning-based warranty fraud detection application designed to identi
 
 **Core Concepts:** Fraud Detection · Classification · Risk Scoring · Model Evaluation · API Development
 
-🔗 **[View Repository](https://github.com/rskarthika2005-ai/Kestrel-Home-Warranty-Claim-Review-Variant-C)**
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Kestrel-Home-Warranty-Claim-Review-Variant-C-)**
 
 ---
 
