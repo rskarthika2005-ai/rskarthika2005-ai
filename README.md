@@ -1,14 +1,12 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KARTHIKA%20SENTHILKUMAR&fontSize=42&fontAlignY=38&desc=SOFTWARE%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20ENGINEERING&descAlignY=60&animation=fadeIn&fontColor=ffffff&color=0:0078D4,50:2563EB,100:7C3AED"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KARTHIKA%20SENTHILKUMAR&fontSize=42&fontAlignY=38&desc=SOFTWARE%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20ENGINEERING&descAlignY=60&animation=fadeIn&fontColor=ffffff&color=0:0078D4,50:2563EB,100:7C3AED" width="100%"/>
 
 <br>
 
-### **Software Engineer • AI Enthusiast • ECE Graduate**
+### Software Engineer • AI Enthusiast • ECE Graduate
 
-<p>
-Building my journey from <b>Engineering → Software → Artificial Intelligence</b>
-</p>
+*Building my journey from Engineering → Software → Artificial Intelligence*
 
 <br>
 
@@ -36,223 +34,266 @@ Building my journey from <b>Engineering → Software → Artificial Intelligence
 
 <div align="center">
 
-## ✦ **ABOUT ME**
+## ✦ ABOUT ME
 
 </div>
 
-I am a **2026 B.E. Electronics and Communication Engineering graduate** with hands-on project experience in **Python, AI applications, RAG workflows, and AI agents**.
+I am a **2026 B.E. Electronics and Communication Engineering graduate** interested in **software engineering, artificial intelligence, and Generative AI**.
 
-My interests are focused on **software engineering, artificial intelligence, Generative AI, and practical AI applications**.
+I have hands-on project experience exploring Python-based applications, LLM-powered analytics, document processing, RAG workflows, and AI agents.
 
-I have worked with **Python, Java, SQL, Machine Learning, LLMs, RAG, LangChain, LangGraph, PyTorch, and Scikit-learn** through academic and personal projects.
+I enjoy understanding real-world problems, developing practical solutions, debugging code, and learning new technologies through project-based implementation.
 
-I enjoy learning new technologies by building projects, solving programming problems, debugging issues, and improving my understanding through practical implementation.
+My goal is to grow as a software and AI engineer while contributing to useful, reliable, and user-focused applications.
 
 ---
 
 <div align="center">
 
-## ✦ **QUICK PROFILE**
+## ✦ QUICK PROFILE
 
 </div>
 
-|                        |                                                   |
-| ---------------------- | ------------------------------------------------- |
-| 🎓 **Education**       | B.E. Electronics & Communication Engineering      |
-| 📅 **Graduation**      | 2026                                              |
-| 📍 **Location**        | Chennai, India                                    |
-| 💻 **Programming**     | Python · Java · SQL                               |
-| 🤖 **AI Focus**        | Machine Learning · Generative AI · LLMs           |
-| 🔎 **AI Applications** | RAG · AI Agents · Agentic AI                      |
-| 🧰 **Frameworks**      | LangChain · LangGraph · PyTorch · Scikit-learn    |
-| 🗄️ **Database**       | MySQL                                             |
-| ⚙️ **Core Skills**     | OOP · DSA · Debugging · Testing · Problem-Solving |
-| 🔧 **Tools**           | Git · GitHub                                      |
+| Category | Details |
+|---|---|
+| 🎓 Education | B.E. Electronics & Communication Engineering |
+| 📅 Graduation | 2026 |
+| 📍 Location | Chennai, India |
+| 💻 Programming | Python · Java · SQL |
+| 🤖 AI & ML | Machine Learning · Computer Vision · OCR |
+| 🧠 Generative AI | LLMs · RAG · AI Agents |
+| 🧰 Frameworks | LangChain · LangGraph · PyTorch · Scikit-learn |
+| 🌐 Application Development | Streamlit · FastAPI · REST APIs |
+| 🗄️ Database | MySQL |
+| 🔧 Tools | Git · GitHub |
+| ⚙️ Foundations | OOP · DSA · Debugging · Testing |
 
 ---
 
 <div align="center">
 
-## ✦ **TECHNICAL SKILLS**
+## ✦ FEATURED PROJECTS
+
+**My highlighted Software & AI projects**
+
+*Priority projects are listed first.*
 
 </div>
 
-### 💻 Programming
+### 🧾 1. Tarang — Pharma Distribution Expense Receipts
+
+**Tech Stack:** Python · OCR · Vision Models · Streamlit · FastAPI
+
+A receipt-processing application focused on extracting and validating information from pharma distribution expense receipts.
+
+**Key Features**
+- Extracts important receipt fields, including vendor, date, bill number, GSTIN, and amount.
+- Supports receipt validation and discrepancy detection.
+- Helps identify missing or inconsistent information for review.
+- Provides a Streamlit dashboard and a FastAPI endpoint.
+
+**What it explores:** Document processing, OCR, AI-assisted data extraction, validation, and workflow automation.
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Tarang-Pharma-Distribution-expense-receipts)**
+
+---
+
+### 🏠 2. Kestrel — Home Warranty Claim Review
+
+**Tech Stack:** Python · GPT-4o mini · Streamlit · LLM Applications
+
+An LLM-powered analytics application focused on examining home warranty support-ticket information and generating useful business insights.
+
+**Key Features**
+- Analyzes support-ticket information.
+- Explores patterns and trends in customer issues.
+- Identifies potential revenue opportunities.
+- Presents analytical insights through a Streamlit interface.
+
+**What it explores:** LLM API integration, support-ticket analytics, business insights, and AI-powered applications.
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Kestrel-Home-Warranty-Claim-Review-Variant-C)**
+
+---
+
+### 🎧 3. Vireo — Audio Support Tickets
+
+**Tech Stack:** Python · GPT-4o mini · Streamlit · AI Analytics
+
+An AI-based support-ticket analytics project designed to explore customer-support information and identify useful trends.
+
+**Key Features**
+- Analyzes customer-support ticket data using an LLM.
+- Explores recurring patterns in support issues.
+- Identifies potential business and revenue opportunities.
+- Presents insights through a Streamlit application.
+
+**What it explores:** Python development, LLM integration, customer-support analytics, and insight generation.
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Vireo-Audio-Support-Tickets-Set-A)**
+
+---
+
+### 🤖 4. Agentic AI Research Assistant
+
+**Tech Stack:** Python · LLMs · RAG · LangChain · LangGraph
+
+An AI research assistant that explores document retrieval and context-aware question answering.
+
+**Key Areas**
+- Document retrieval and analysis
+- Retrieval-Augmented Generation (RAG)
+- LLM-based question answering
+- Context-aware responses
+- Agentic AI workflows
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Agentic-AI-Research-Assistant)**
+
+---
+
+### 🚦 5. Decentralized Traffic Prediction Using Federated Learning & GRU
+
+**Tech Stack:** Python · YOLOv8 · GRU · Federated Learning
+
+A machine-learning project exploring vehicle detection and traffic prediction using computer vision, GRU models, and federated learning techniques.
+
+**Key Areas**
+- Vehicle detection using YOLOv8
+- GRU-based traffic prediction
+- Federated learning
+- Federated Averaging
+- Decentralized model training
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Decentralized-Traffic-Prediction-using-Federated-Learning-and-GRU-Model)**
+
+---
+
+### 📚 6. Personalized AI Study Notes Generator
+
+An AI-powered study assistant designed to transform lengthy study materials into concise notes to support learning and revision.
+
+**Key Areas**
+- AI-powered study assistance
+- Concise note generation
+- Key concept identification
+- Personalized learning support
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/Personalized-AI-Study-Notes-Generator)**
+
+---
+
+### 📈 7. AI Student Growth Tracker
+
+An AI-based application focused on helping students understand their strengths, identify areas for improvement, and review their progress.
+
+**Key Areas**
+- Student performance insights
+- Identification of improvement areas
+- Progress tracking
+- Personalized guidance
+
+🔗 **[View Repository](https://github.com/rskarthika2005-ai/AI-Student-Growth-Tracker)**
+
+---
+
+<div align="center">
+
+## ✦ TECHNICAL SKILLS
+
+</div>
+
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Python, Java and MySQL"/>
 </p>
 
 `Python` · `Java` · `SQL`
 
 ### 🤖 AI & Machine Learning
 
-`Machine Learning` · `Generative AI` · `LLMs`
-`RAG` · `AI Agents` · `Agentic AI`
+`Machine Learning` · `Computer Vision` · `OCR`  
+`Generative AI` · `Large Language Models` · `RAG`  
+`AI Agents` · `Agentic AI`
 
 ### 🧰 Frameworks & Libraries
 
 `LangChain` · `LangGraph` · `PyTorch` · `Scikit-learn`
 
-### 🗄️ Database
+### 🌐 Application Development
 
-`MySQL`
+`Streamlit` · `FastAPI` · `REST APIs`
 
-### ⚙️ Software Engineering
+### 🗄️ Database & Tools
 
-`OOP` · `Data Structures & Algorithms`
-`REST APIs` · `Debugging` · `Testing` · `Problem-Solving`
+`MySQL` · `Git` · `GitHub`
 
-### 🔧 Tools
+### ⚙️ Software Engineering Foundations
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github"/>
-</p>
+`Object-Oriented Programming` · `Data Structures & Algorithms`  
+`Debugging` · `Testing` · `Problem-Solving`
 
 ---
 
 <div align="center">
 
-## ✦ **WHAT I BRING**
+## ✦ WHAT I BRING
 
 </div>
 
 ### 🧠 Problem-Solving
 
-I enjoy breaking problems into smaller parts, understanding the requirements, and working toward practical solutions.
+I break problems into smaller tasks, understand requirements, and work toward practical solutions.
 
 ### 💻 Programming Foundation
 
-I am building a strong foundation in **Python, Java, SQL, OOP, and Data Structures & Algorithms**.
+I continue to strengthen my programming fundamentals through Python, Java, SQL, OOP, and DSA practice.
 
-### 🤖 AI & Generative AI
+### 🤖 AI Application Development
 
-I am exploring **LLMs, RAG, AI agents, and Generative AI applications** through hands-on projects.
+I explore ways to apply LLMs, OCR, RAG, and machine learning to document processing, analytics, and research-oriented tasks.
 
 ### 🔍 Debugging & Testing
 
-I focus on understanding errors, debugging issues, testing implementations, and improving solutions.
+I focus on understanding errors, checking outputs, and improving implementations through testing and debugging.
 
 ### 📚 Continuous Learning
 
-I regularly learn through courses, projects, documentation, and practical experimentation.
+I learn through technical courses, documentation, hands-on projects, and practical experimentation.
 
 ---
 
 <div align="center">
 
-## ✦ **FEATURED PROJECTS**
-
-*Selected projects from my Software & AI journey*
-
-</div>
-
-### 📚 Personalized AI Study Notes Generator
-
-An AI-powered study assistant designed to transform **lengthy study materials into personalized and concise notes**.
-
-The application focuses on identifying important information and presenting it in a simpler format to support **faster learning and revision**.
-
-**Key Areas**
-
-* AI-powered study assistance
-* Concise note generation
-* Key concept identification
-* Personalized learning support
-* Faster revision
-
-🔗 **[View Repository](https://github.com/rskarthika2005-ai/Personalized-AI-Study-Notes-Generator)**
-
----
-
-### 📈 AI Student Growth Tracker
-
-An AI-based application designed to help students understand **their strengths, areas where they are lacking, and areas they can improve**.
-
-The project focuses on providing useful insights that can help students understand their progress and identify improvement areas.
-
-**Key Areas**
-
-* Student performance insights
-* AI-based analysis
-* Areas for improvement
-* Personalized guidance
-* Student growth tracking
-
-🔗 **[View Repository](https://github.com/rskarthika2005-ai/AI-Student-Growth-Tracker)**
-
----
-
-### 🤖 Agentic AI Research Assistant
-
-**Python · LLMs · RAG · LangChain · LangGraph**
-
-An AI-powered research application that retrieves and analyzes document content and provides **context-aware responses** to user queries.
-
-The project explores how LLMs, document retrieval, RAG, and agentic workflows can be combined to support research-oriented tasks.
-
-**Key Areas**
-
-* Document retrieval
-* RAG workflows
-* LLM applications
-* Context-aware responses
-* Agentic workflows
-
-🔗 **[View Repository](https://github.com/rskarthika2005-ai/Agentic-AI-Research-Assistant)**
-
----
-
-### 🚦 Decentralized Traffic Prediction Using Federated Learning & GRU
-
-**Python · YOLOv8 · GRU · Federated Learning**
-
-A machine-learning project combining **vehicle detection and traffic prediction** using GRU models and Federated Averaging.
-
-The project explores decentralized learning where prediction models can learn from local data while participating in a federated learning process.
-
-**Key Areas**
-
-* Vehicle detection
-* YOLOv8
-* GRU-based prediction
-* Federated Learning
-* Federated Averaging
-* Traffic prediction
-
-🔗 **[View Repository](https://github.com/rskarthika2005-ai/Decentralized-Traffic-Prediction-using-Federated-Learning-and-GRU-Model)**
-
----
-
-<div align="center">
-
-## ✦ **PROJECT APPROACH**
+## ✦ PROJECT APPROACH
 
 </div>
 
 ```text
 Understand the Problem
-        ↓
-Break the Problem into Smaller Tasks
-        ↓
-Choose the Right Technology
-        ↓
-Build the Solution
-        ↓
-Test & Debug
-        ↓
+         ↓
+Identify Requirements
+         ↓
+Break into Smaller Tasks
+         ↓
+Choose Suitable Technologies
+         ↓
+Build the Application
+         ↓
+Test and Debug
+         ↓
+Evaluate the Results
+         ↓
 Improve the Solution
-        ↓
-Learn from the Result
 ```
 
-This approach helps me connect **software fundamentals with practical AI development**.
+My approach combines **programming fundamentals, practical implementation, and continuous learning** to develop useful software and AI applications.
 
 ---
 
 <div align="center">
 
-## ✦ **ENGINEERING JOURNEY**
+## ✦ ENGINEERING JOURNEY
 
 ### From Electronics to Software & AI
 
@@ -270,11 +311,11 @@ This approach helps me connect **software fundamentals with practical AI develop
 
 ↓
 
-**OOP • DSA • Software Fundamentals**
+**OOP • DSA • Software Development**
 
 ↓
 
-**Machine Learning**
+**Machine Learning • Computer Vision**
 
 ↓
 
@@ -286,11 +327,11 @@ This approach helps me connect **software fundamentals with practical AI develop
 
 ↓
 
-**Practical AI Applications**
+**Building Practical AI Applications**
 
-↓
+<br>
 
-### **Building Software & AI Solutions**
+### Learning. Building. Improving.
 
 </div>
 
@@ -298,15 +339,15 @@ This approach helps me connect **software fundamentals with practical AI develop
 
 <div align="center">
 
-## ✦ **EDUCATION**
+## ✦ EDUCATION
 
 ### 🎓 Sathyabama Institute of Science and Technology
 
 **Bachelor of Engineering — Electronics & Communication Engineering**
 
-`2022 — 2026`
+`2022 – 2026`
 
-**GPA: 7.91 / 10**
+**CGPA: 7.91 / 10**
 
 **First Class with Distinction**
 
@@ -316,83 +357,49 @@ This approach helps me connect **software fundamentals with practical AI develop
 
 <div align="center">
 
-## ✦ **CERTIFICATIONS & LEARNING**
+## ✦ CERTIFICATIONS
 
 </div>
 
 ### 🟦 Oracle
 
-**Agentic AI Foundations Associate**
+**Oracle Agentic AI Foundations Associate**
 
-`08/2026`
+`2026`
 
-Training covering:
+### 🟪 LangChain / Udemy
 
-* Agentic AI
-* AI Agents
-* LLMs
-* RAG
-* Generative AI
-* Agentic Workflows
+**Agentic AI Engineering with LangChain & LangGraph**
 
----
-
-### 🟪 Udemy
-
-**LangChain: Agentic AI Engineering with LangChain & LangGraph**
-
-`04/2026 — 08/2026`
-
-Training covering:
-
-* LangChain
-* LangGraph
-* LLM Applications
-* RAG
-* AI Agents
-* Tool Calling
-* MCP
-* Agentic Workflows
-
----
+`2026`
 
 ### 🟩 Udemy
 
 **Complete Python Course**
 
-`07/2024 — 08/2025`
-
-Training covering:
-
-* Python Programming
-* OOP
-* Data Structures
-* Programming Fundamentals
-* Application Development
-
 ---
 
 <div align="center">
 
-## ✦ **CURRENTLY LEARNING**
+## ✦ CURRENTLY LEARNING
 
 <br>
 
 <table>
 <tr>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">☕<br><b>Java</b></td>
-<td align="center">🧠<br><b>DSA</b></td>
-<td align="center">🗄️<br><b>SQL</b></td>
-<td align="center">🤖<br><b>GenAI</b></td>
-<td align="center">🔎<br><b>RAG</b></td>
-<td align="center">🧩<br><b>AI Agents</b></td>
+<td align="center">🐍<br/><b>Python</b></td>
+<td align="center">☕<br/><b>Java</b></td>
+<td align="center">🧠<br/><b>DSA</b></td>
+<td align="center">🗄️<br/><b>SQL</b></td>
+<td align="center">🤖<br/><b>GenAI</b></td>
+<td align="center">🔎<br/><b>RAG</b></td>
+<td align="center">🧩<br/><b>AI Agents</b></td>
 </tr>
 </table>
 
 <br>
 
-**Learn → Understand → Build → Test → Improve**
+I am continuously improving my skills in software development, LLM applications, RAG workflows, AI agents, API integration, and reliable application design.
 
 </div>
 
@@ -400,101 +407,24 @@ Training covering:
 
 <div align="center">
 
-## ✦ **WHAT I'M WORKING TOWARD**
-
-</div>
-
-I am focused on growing into a **strong software engineer with a foundation in AI**.
-
-My current priorities include:
-
-| Focus              | Goal                                     |
-| ------------------ | ---------------------------------------- |
-| 💻 **Programming** | Strengthen Python & Java                 |
-| 🧠 **DSA**         | Improve problem-solving                  |
-| 🏗️ **Software**   | Build practical applications             |
-| 🤖 **AI**          | Develop LLM & Generative AI applications |
-| 🔎 **RAG**         | Build retrieval-based applications       |
-| 🧩 **AI Agents**   | Explore practical agent workflows        |
-| 📚 **Learning**    | Continue improving through projects      |
-
----
-
-<div align="center">
-
-## ✦ **GITHUB ACTIVITY**
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rskarthika2005-ai&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=rskarthika2005-ai&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ **MY ENGINEERING PRINCIPLE**
-
-<br>
-
-### **Understand the Problem**
-
-↓
-
-### **Build the Solution**
-
-↓
-
-### **Test & Debug**
-
-↓
-
-### **Learn**
-
-↓
-
-### **Improve**
-
-<br>
-
-> *Good engineers keep learning. Great engineers keep building.*
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ **LET'S CONNECT**
-
-### **Software • AI • Engineering • Continuous Learning**
-
-<br>
+## ✦ LET'S CONNECT
 
 <a href="https://www.linkedin.com/in/karthika-dev-ai">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
- 
 
 <a href="https://github.com/rskarthika2005-ai">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
-
- 
 
 <a href="mailto:rskarthika08@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-**© 2026 Karthika Senthilkumar**
+**Thanks for visiting my profile!** ⭐
+
+*Building my foundation in Software Engineering and Artificial Intelligence, one project at a time.*
 
 </div>
-
